@@ -1,0 +1,3 @@
+# Ignore FASTA files for aligners
+*.idx.fa
+
