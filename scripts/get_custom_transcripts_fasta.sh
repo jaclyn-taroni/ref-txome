@@ -17,7 +17,7 @@ awk -F "\t" '$3 == "gene" { print $9 }' $GTF \
 # first, get the GTF header from the unfiltered GTF file
 head -5 $GTF > $NONPSEUDOGTF
 
-# grep everything in gtf that mentions pseudogenes
+# grep everything in gtf that mentions the non-pseudogenes
 grep -Fwf $NPLIST $GTF >> $NONPSEUDOGTF
 
 # get the gene to tx mapping for use with rsem-prepare-reference 
