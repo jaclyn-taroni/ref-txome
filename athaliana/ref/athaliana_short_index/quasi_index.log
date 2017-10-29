@@ -1,0 +1,8 @@
+[2017-10-29 13:27:45.870] [jointLog] [warning] Entry with header [AT1G64633.1], had length less than the k-mer length of 23 (perhaps after poly-A clipping)
+[2017-10-29 13:27:46.255] [jointLog] [warning] Entry with header [AT2G21105.1], had length less than the k-mer length of 23 (perhaps after poly-A clipping)
+[2017-10-29 13:27:46.961] [jointLog] [warning] Entry with header [AT3G23122.1], had length less than the k-mer length of 23 (perhaps after poly-A clipping)
+[2017-10-29 13:27:47.778] [jointLog] [warning] Entry with header [AT4G33735.1], had length less than the k-mer length of 23 (perhaps after poly-A clipping)
+[2017-10-29 13:27:47.925] [jointLog] [warning] Entry with header [AT5G04945.1], had length less than the k-mer length of 23 (perhaps after poly-A clipping)
+[2017-10-29 13:27:48.187] [jointLog] [warning] Entry with header [AT5G24575.1], had length less than the k-mer length of 23 (perhaps after poly-A clipping)
+[2017-10-29 13:27:48.292] [jointLog] [warning] Entry with header [AT5G40315.1], had length less than the k-mer length of 23 (perhaps after poly-A clipping)
+[2017-10-29 13:27:48.668] [jointLog] [warning] Entry with header [ATMG00665.1], had length less than the k-mer length of 23 (perhaps after poly-A clipping)
