@@ -1,0 +1,6 @@
+# Ignore FASTA files for aligners
+*.idx.fa
+
+# Ignore FASTA files too large for LFS
+rnorvegicus/Rattus_norvegicus\.Rnor_6\.0\.dna\.toplevel\.fa
+hsapiens/GRCh38\.primary_assembly\.genome\.fa
