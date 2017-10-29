@@ -1,3 +1,5 @@
 # Ignore FASTA files for aligners
 *.idx.fa
 
+
+rnorvegicus/Rattus_norvegicus\.Rnor_6\.0\.dna\.toplevel\.fa
