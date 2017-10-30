@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # create an arabidopsis data directory
-cd athaliana && mkdir data && cd data;
+mkdir athaliana && cd athaliana && mkdir data && cd data;
 
 # download a paired-end sample, with long reads, an example from
 # https://combine-lab.github.io/salmon/getting_started/#obtaining-reads

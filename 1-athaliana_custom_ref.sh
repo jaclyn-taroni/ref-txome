@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # species directory 
-mkdir athaliana && cd athaliana
+cd athaliana
 
 # download reference FASTA and GTF files
 wget ftp://ftp.ensemblgenomes.org/pub/release-37/plants/fasta/arabidopsis_thaliana/dna/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa.gz
