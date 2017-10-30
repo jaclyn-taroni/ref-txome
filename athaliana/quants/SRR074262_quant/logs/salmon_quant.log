@@ -1,0 +1,38 @@
+[2017-10-30 15:55:57.686] [jointLog] [info] parsing read library format
+[2017-10-30 15:55:57.686] [jointLog] [info] There is 1 library.
+[2017-10-30 15:55:57.716] [jointLog] [info] Loading Quasi index
+[2017-10-30 15:55:57.716] [jointLog] [info] Loading 32-bit quasi index
+[2017-10-30 15:55:59.217] [jointLog] [info] done
+[2017-10-30 15:55:59.217] [jointLog] [info] Index contained 55157 targets
+[2017-10-30 15:55:59.392] [jointLog] [info] Automatically detected most likely library type as SR
+[2017-10-30 15:56:12.588] [jointLog] [info] Computed 42230 rich equivalence classes for further processing
+[2017-10-30 15:56:12.588] [jointLog] [info] Counted 6544809 total reads in the equivalence classes 
+[2017-10-30 15:56:12.594] [jointLog] [info] Mapping rate = 68.0376%
+
+[2017-10-30 15:56:12.594] [jointLog] [info] finished quantifyLibrary()
+[2017-10-30 15:56:12.594] [jointLog] [info] Starting optimizer
+[2017-10-30 15:56:12.624] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2017-10-30 15:56:12.626] [jointLog] [info] iteration = 0 | max rel diff. = 76.2483
+[2017-10-30 15:56:12.589] [fileLog] [info] 
+At end of round 0
+==================
+Observed 9619406 total fragments (9619406 in most recent round)
+
+[2017-10-30 15:56:12.765] [jointLog] [info] iteration = 100 | max rel diff. = 0.1173
+[2017-10-30 15:56:12.907] [jointLog] [info] iteration = 200 | max rel diff. = 0.0559366
+[2017-10-30 15:56:13.069] [jointLog] [info] iteration = 300 | max rel diff. = 0.040439
+[2017-10-30 15:56:13.208] [jointLog] [info] iteration = 400 | max rel diff. = 0.0325
+[2017-10-30 15:56:13.350] [jointLog] [info] iteration = 500 | max rel diff. = 0.0209483
+[2017-10-30 15:56:13.504] [jointLog] [info] iteration = 600 | max rel diff. = 0.0189742
+[2017-10-30 15:56:13.653] [jointLog] [info] iteration = 700 | max rel diff. = 0.0171898
+[2017-10-30 15:56:13.797] [jointLog] [info] iteration = 800 | max rel diff. = 0.0153846
+[2017-10-30 15:56:13.936] [jointLog] [info] iteration = 900 | max rel diff. = 0.0119814
+[2017-10-30 15:56:14.078] [jointLog] [info] iteration = 1000 | max rel diff. = 0.0108753
+[2017-10-30 15:56:14.124] [jointLog] [info] iteration = 1025 | max rel diff. = 0.00974337
+[2017-10-30 15:56:14.126] [jointLog] [info] Finished optimizer
+[2017-10-30 15:56:14.126] [jointLog] [info] writing output 
+
+[2017-10-30 15:56:14.187] [jointLog] [warning] NOTE: Read Lib [athaliana/data/SRR074262/SRR074262.fastq.gz] :
+
+Greater than 5% of the fragments disagreed with the provided library type; check the file: athaliana/quants/SRR074262_quant/lib_format_counts.json for details
+

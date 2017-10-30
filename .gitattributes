@@ -3,3 +3,4 @@
 *.seq filter=lfs diff=lfs merge=lfs -text
 hsapiens/ref/hsapiens_release_24_GRCh38.ti filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text

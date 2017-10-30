@@ -1,0 +1,22 @@
+{
+    "read_files": "athaliana/data/SRR6080009/SRR6080009.fastq.gz",
+    "expected_format": "U",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 22761991,
+    "num_assigned_fragments": 22761991,
+    "num_consistent_mappings": 43086568,
+    "num_inconsistent_mappings": 0,
+    "strand_mapping_bias": 0.5300356714417356,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 0,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 0,
+    "SF": 22837418,
+    "SR": 20249150,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
