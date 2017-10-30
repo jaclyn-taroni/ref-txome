@@ -9,8 +9,8 @@ salmon quant -i athaliana/ref/athaliana_normal_index -l A \
 
 # single-end example, read length = 36 so we use the "short" index
 salmon quant -i athaliana/ref/athaliana_short_index -l A \
-					-r athaliana/data/SRR074262/SRR074262.fastq.gz \
-					-p 8 -o athaliana/quants/SRR074262_quant
+			-r athaliana/data/SRR074262/SRR074262.fastq.gz \
+			-p 8 -o athaliana/quants/SRR074262_quant
 
 # multi-sample experiment, read length = 50 so we use the "short" index
 base=6080000;
@@ -20,6 +20,6 @@ do
 	samp="SRR"$sam;
 	echo "Processing sample $samp";
 	salmon quant -i athaliana/ref/athaliana_short_index -l A \
-					-r athaliana/data/${samp}/${samp}.fastq.gz \
-					-p 8 -o athaliana/quants/PRJNA408323/${samp}_quant;
+				-r athaliana/data/${samp}/${samp}.fastq.gz \
+				-p 8 -o athaliana/quants/PRJNA408323/${samp}_quant;
 done
