@@ -1,0 +1,9 @@
+{
+    "salmon_version": "0.8.2",
+    "index": "athaliana/ref/athaliana_short_index",
+    "libType": "A",
+    "unmatedReads": "athaliana/data/SRR6080009/SRR6080009.fastq.gz",
+    "threads": "8",
+    "output": "athaliana/quants/PRJNA408323/SRR6080009_quant",
+    "auxDir": "aux_info"
+}

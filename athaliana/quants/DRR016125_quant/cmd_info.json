@@ -1,0 +1,10 @@
+{
+    "salmon_version": "0.8.2",
+    "index": "athaliana/ref/athaliana_normal_index",
+    "libType": "A",
+    "mates1": "athaliana/data/DRR016125/DRR016125_1.fastq.gz",
+    "mates2": "athaliana/data/DRR016125/DRR016125_2.fastq.gz",
+    "threads": "8",
+    "output": "athaliana/quants/DRR016125_quant",
+    "auxDir": "aux_info"
+}
