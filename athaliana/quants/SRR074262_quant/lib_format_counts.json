@@ -1,8 +1,8 @@
 {
     "read_files": "athaliana/data/SRR074262/SRR074262.fastq.gz",
     "expected_format": "SR",
-    "compatible_fragment_ratio": 0.8650744429669376,
-    "num_compatible_fragments": 5661747,
+    "compatible_fragment_ratio": 0.8650328833125611,
+    "num_compatible_fragments": 5661475,
     "num_assigned_fragments": 6544809,
     "num_consistent_mappings": 10326057,
     "num_inconsistent_mappings": 2084631,

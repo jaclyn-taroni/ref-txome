@@ -1,8 +1,8 @@
 {
     "read_files": "( athaliana/data/DRR016125/DRR016125_1.fastq.gz, athaliana/data/DRR016125/DRR016125_2.fastq.gz )",
     "expected_format": "ISR",
-    "compatible_fragment_ratio": 0.981028511027042,
-    "num_compatible_fragments": 11452777,
+    "compatible_fragment_ratio": 0.9810292819541804,
+    "num_compatible_fragments": 11452786,
     "num_assigned_fragments": 11674255,
     "num_consistent_mappings": 20674511,
     "num_inconsistent_mappings": 784611,
