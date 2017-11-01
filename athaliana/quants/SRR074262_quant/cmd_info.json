@@ -5,5 +5,8 @@
     "unmatedReads": "athaliana/data/SRR074262/SRR074262.fastq.gz",
     "threads": "8",
     "output": "athaliana/quants/SRR074262_quant",
+    "seqBias": [],
+    "numBootstraps": "1000",
+    "writeUnmappedNames": [],
     "auxDir": "aux_info"
 }

@@ -6,5 +6,10 @@
     "mates2": "athaliana/data/DRR016125/DRR016125_2.fastq.gz",
     "threads": "8",
     "output": "athaliana/quants/DRR016125_quant",
+    "gcBias": [],
+    "seqBias": [],
+    "numBootstraps": "1000",
+    "biasSpeedSamp": "5",
+    "writeUnmappedNames": [],
     "auxDir": "aux_info"
 }
