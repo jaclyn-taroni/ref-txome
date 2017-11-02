@@ -45,7 +45,7 @@ See the [Salmon documentation](http://salmon.readthedocs.io/en/latest/salmon.htm
 
 Quantification with Salmon for our three examples is performed with `3-athaliana_quant.sh`
 
-_Note: The distribution of [read lengths in a fastq file](#checking-read-length-from-fastq-file) determines which txome index is appropriate for use with_`quant`.
+_Note: The distribution of [read lengths in a fastq file](#checking-read-length-from-fastq-file) determines which txome index is appropriate for use with_ `quant`.
 
 #### Summarize to gene
 
